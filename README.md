@@ -1,4 +1,5 @@
 # SCGA
+<p> <a href="https://www.upwork.com/freelancers/~01b6e23dfcb158ee1e?p=1732433444445196288">More technical description in English</a></p>
 <h3>Bem vindo ao repositório do Sistema de Comunicação e Gerenciamento de Ambiente (SCGA/ECMS)! </h3>
 <p>Esse projeto foi feito com a itenção de ser o Trabalho de Conclusão de Curso (TCC) da Etec Zona Leste de São Paulo em 2023, com os integrantes
 Gustavo-Henrique-da-Silva, ThiagoMartins11 (Github), André Caitano e Hugo Reblerson</p>
