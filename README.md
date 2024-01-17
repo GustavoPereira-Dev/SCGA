@@ -1,7 +1,7 @@
 # SCGA
 <h3>Bem vindo ao repositório do Sistema de Comunicação e Gerenciamento de Ambiente (SCGA/ECMS)! </h3>
 <p>Esse projeto foi feito com a itenção de ser o Trabalho de Conclusão de Curso (TCC) da Etec Zona Leste de São Paulo em 2023, com os integrantes
-<a href="https://github.com/Gustavo-Henrique-da-Silva">Gustavo Henrique</a>, <a href="https://github.com/ThiagoMartins11">Thiago Martins</a>, <a href="https://github.com/caitanoandre">André Caitano </a> e <a href="https://github.com/caitanoandre">Hugo Reblerson</a></p>
+<a href="https://github.com/Gustavo-Henrique-da-Silva">Gustavo Henrique</a>, <a href="https://github.com/ThiagoMartins11">Thiago Martins</a>, <a href="https://github.com/caitanoandre">André Caitano </a> e <a href="https://github.com/ReblerHugoh">Hugo Reblerson</a></p>
 <p>Será descrito brevemente cada tela da aplicação <a href="https://scga.onrender.com/">desse sistema</a> e seus objetivos no geral</p>
 
 ## Tela de início
