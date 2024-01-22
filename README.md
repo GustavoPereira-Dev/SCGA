@@ -1,8 +1,14 @@
 # SCGA
+
+| :placard: Atributos | Descrição   |
+| -------------  | --- |
+| :sparkles: Nome        | **SCGA - Sistema de Comunicação e Gerenciamento de Ambiente**
+| :label: Tecnologias | php, css, js, Bootstrap, Laravel, Firebase (tecnologias utilizadas)
+| :rocket: URL         | https://scga.onrender.com/
 <h3>Bem vindo ao repositório do Sistema de Comunicação e Gerenciamento de Ambiente (SCGA/ECMS)! </h3>
 <p>Esse projeto foi feito com a itenção de ser o Trabalho de Conclusão de Curso (TCC) da Etec Zona Leste de São Paulo em 2023, com os integrantes
 <a href="https://github.com/Gustavo-Henrique-da-Silva">Gustavo Henrique</a>, <a href="https://github.com/ThiagoMartins11">Thiago Martins</a>, <a href="https://github.com/caitanoandre">André Caitano </a> e <a href="https://github.com/ReblerHugoh">Hugo Reblerson</a></p>
-<p>Será descrito brevemente cada tela da aplicação <a href="https://scga.onrender.com/">desse sistema</a> e seus objetivos no geral</p>
+<p>Será descrito brevemente cada tela da aplicação desse sistema e seus objetivos no geral</p>
 
 ## Tela de início
 <p>Nessa tela temos resumidamente a introdução do sistemas, seus objetivos, clientes (público-alvo), propósitos, sobre nós, opinião dos instrutores e entre outros,
